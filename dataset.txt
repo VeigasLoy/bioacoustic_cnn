@@ -92,8 +92,7 @@ Compressive sensing for efficiently collecting wildlife sounds with wireless sen
 21st International Conference on Computer Communications and Networks (ICCCN 2012), p. 1-7. IEEE
 
 
-Citation Requests / Acknowledgements:
-Please cite some of our papers.
+
 
 
 
