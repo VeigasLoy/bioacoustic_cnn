@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore model and output files
+*.keras
+*.npy
+*.png
+
+# Ignore environment files
+.env
+.DS_Store
